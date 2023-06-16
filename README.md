@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Trigger the workflow
+## Step 5: Trigger the workflow :grinning:
 
 _You've now got a fully functioning workflow! :smile:_
 
@@ -31,7 +31,7 @@ Your new action will run any time a pull request has been opened.
 
 ### :keyboard: Activity: Trigger the workflow
 
-1. Make a new branch named `test-workflow`.
+1. Make a new branch named `test-workflow`.:grinning:
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
